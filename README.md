@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaithanya Gorantla</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-sisyphean&label=Profile%20views&color=0d1117&style=flat" alt="the-sisyphean" /> </p>
-
 - 🌱 I’m currently learning **SQL, Python, C++**
 
 - 📫 How to reach me **sg.chaithanya@gmail.com**
